@@ -1,6 +1,0 @@
----
-title: about
-date: 2019-10-02 17:40:24
-layout: about
-type: about
----

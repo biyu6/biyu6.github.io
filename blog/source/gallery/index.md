@@ -1,6 +1,0 @@
----
-title: gallery
-date: 2019-10-02 17:41:25
-layout: gallery
-type: gallery
----
